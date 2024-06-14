@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python , Java ,C++**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nishchal-shrestha-336b74204/](https://www.linkedin.com/in/nishchal-shrestha-336b74204/)
-
 - 💬 Ask me about **Gadgets**
 
 - 📫 How to reach me **thenshrestha@gmail.com**
