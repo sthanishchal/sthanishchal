@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nishchal Shrestha</h1>
-<h3 align="center">A passionate IT student from Nepal</h3>
 
 <img align="right" alt="cooding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
@@ -7,19 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/sthanishchal" target="blank"><img src="https://img.shields.io/twitter/follow/sthanishchal?logo=twitter&style=for-the-badge" alt="sthanishchal" /></a> </p>
 
-- 🌱 I’m currently learning **Python , Java ,C++**
-
-- 💬 Ask me about **Gadgets**
-
-- 📫 How to reach me **thenshrestha@gmail.com**
+- 🌱 I’m currently learning**
+- 
+- 📫 How to reach me **nshresthaofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sthanishchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sthanishchal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishchal shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishchal shrestha" height="30" width="40" /></a>
-<a href="https://fb.com/nishchalshrestha.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishchalshrestha.official" height="30" width="40" /></a>
+<a href="https://fb.com/sthanishchalTV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishchalshrestha.official" height="30" width="40" /></a>
 <a href="https://instagram.com/sthanishchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sthanishchal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nishchal shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nishchal shrestha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sthanishchalTV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nishchal shrestha" height="30" width="40" /></a>
 <a href="https://discord.gg/sthanishchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sthanishchal" height="30" width="40" /></a>
 </p>
 
