@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://twitter.com/sthanishchal" target="blank"><img src="https://img.shields.io/twitter/follow/sthanishchal?logo=twitter&style=for-the-badge" alt="sthanishchal" /></a> </p>
 
 - 🌱 I’m currently learning**
-- 
 - 📫 How to reach me **nshresthaofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
