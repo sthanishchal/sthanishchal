@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Nishchal+from+Dharan%2C+Nepal;CSIT+Student+%7C+4th+Year;UI%2FUX+Intern+at+CodeIT;Freelancer+%7C+Designer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7768E¢er=true&vCenter=true&width=500&lines=Hello%2C+I'm+Nishchal+from+Dharan%2C+Nepal;CSIT+Student+%7C+4th+Year;UI%2FUX+Intern+at+CodeIT;Freelancer+%7C+Designer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding" width="300"/>
@@ -9,10 +9,11 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/sthanishchal"><img src="https://img.shields.io/twitter/follow/sthanishchal?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
-  <a href="https://www.linkedin.com/in/nishchalshrestha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sthanishchal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nshresthaofficial@gmail.com"><img src="https://img.shields.io/badge/Email-nshresthaofficial@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://www.instagram.com/sthanishchal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://wa.me/9779812345678"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/9779812311177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="viber://chat?number=%2B9779812311177"><img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" alt="Viber"></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sthanishchal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
