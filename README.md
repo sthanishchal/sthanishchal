@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7768E¢er=true&vCenter=true&width=500&lines=Hello%2C+I'm+Nishchal+from+Dharan%2C+Nepal;CSIT+Student+%7C+4th+Year;UI%2FUX+Intern+at+CodeIT;Freelancer+%7C+Designer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Nishchal+from+Dharan%2C+Nepal;CSIT+Student+%7C+4th+Year;UI%2FUX+Intern+at+CodeIT;Freelancer+%7C+Designer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding" width="300"/>
@@ -38,18 +38,18 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthanishchal&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthanishchal&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthanishchal&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sthanishchal&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sthanishchal&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sthanishchal&theme=default&hide_border=true" alt="Streak Stats" />
 </p>
 
 ## 🎖️ Achievements & Certifications
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sthanishchal&theme=dark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=sthanishchal&theme=default&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 - 🏅 **Certified Web Developer** (FreeCodeCamp)
 - 🏅 **Digital Marketing Professional** (Google Digital Garage)
