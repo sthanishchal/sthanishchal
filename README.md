@@ -5,7 +5,7 @@
   <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding" width="300"/>
 </p>
 <p align="center">
-  <strong>CSIT Student | UI/UX Designer | Web Developer | AI Enthusiast</strong>
+  <strong>CSIT Student | UI/UX Designer | Software Developer | AI Enthusiast</strong>
 </p>
 <p align="center">
   <a href="https://twitter.com/sthanishchal"><img src="https://img.shields.io/twitter/follow/sthanishchal?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
