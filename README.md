@@ -20,17 +20,6 @@
   <img src="https://wakatime.com/badge/user/sthanishchal.svg" alt="WakaTime Coding Activity" />
 </p>
 
-## 👨‍💻 About Me
-- 🎓 **4th Year CSIT Student** at Birendra Memorial College, Dharan, Nepal
-- 🌍 Proudly based in **Dharan, Nepal**
-- 👨‍🎨 **UI/UX Intern** at CodeIT
-- 🧠 Final Year Project: **Dog Breed Classification using Convolutional Neural Networks (CNN)**
-- 📜 Certified in: **Web Development**, **Digital Marketing**, **AWS to Generative AI**
-- 🌱 Currently mastering: **UI/UX Design**, **React**, **TailwindCSS**, **Semantic HTML**, **Color Theory**
-- 💡 Passionate about creating **user-friendly interfaces** and exploring **AI-driven solutions**
-- ⚡ Fun Fact: I sketch UI wireframes on paper before coding and love spicy momos!
-- 📫 Reach me at: **nshresthaofficial@gmail.com**
-
 ## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,github,git,vscode,cpp,python,aws,firebase,nodejs" alt="Skills" />
