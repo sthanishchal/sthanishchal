@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sthanishchal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
   <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding" width="300"/>
 </p>
 <p align="center">
@@ -11,10 +14,7 @@
   <a href="https://www.instagram.com/sthanishchal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/9779812311177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sthanishchal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sthanishchal?label=Follow&style=social" alt="GitHub Followers" />
-</p>
+
 
 ## 🛠️ Skills & Tools
 <p align="center">
