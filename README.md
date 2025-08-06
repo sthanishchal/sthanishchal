@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sthanishchal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/sthanishchal?label=Follow&style=social" alt="GitHub Followers" />
-  <img src="https://wakatime.com/badge/user/sthanishchal.svg" alt="WakaTime Coding Activity" />
 </p>
 
 ## 🛠️ Skills & Tools
