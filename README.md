@@ -22,21 +22,15 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthanishchal&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sthanishchal&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sthanishchal&theme=default&hide_border=true" alt="Streak Stats" />
-</p>
+
 
 ## 🎖️ Achievements & Certifications
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app?username=sthanishchal&theme=default&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-- 🏅 **Certified Web Developer** (FreeCodeCamp)
-- 🏅 **Digital Marketing Professional** (Google Digital Garage)
-- 🏅 **AWS to Generative AI Practitioner** (AWS Skill Builder)
-- 🌟 Contributed to **3+ open-source projects** on GitHub
