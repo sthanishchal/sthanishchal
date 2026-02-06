@@ -15,9 +15,5 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,github,git,vscode,cpp,python,aws,firebase,nodejs" alt="Skills" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthanishchal&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
 
 
